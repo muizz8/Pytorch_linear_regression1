@@ -1,8 +1,4 @@
-Sure, I'll create a README file for your PyTorch Linear Regression project. First, I'll examine the contents of your Jupyter Notebook to understand the project details. Let's proceed with that.
 
-Based on the extracted content, here is a README for your PyTorch Linear Regression project:
-
----
 
 # PyTorch Linear Regression
 
